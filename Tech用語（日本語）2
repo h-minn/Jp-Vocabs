@@ -1,0 +1,97 @@
+----- Tech用語（日本語）2-----
+用語 : 主な英訳
+プログラミング : programming
+プログラミング言語 : programming languages
+自然言語 : natural language
+サーバー : server
+バグ、欠陥 : bug、defect、glith、flaw
+業務 : work、task
+開発プロセス : development process
+業務案件、業務要件 : application requirement
+アカウント : account
+ユーザー設定 : preference
+シンタックス、構文 : syntax
+配列 : array
+引数 : argument
+仕様書 : spec（specification）
+開発する : develop（development）
+プログラムを設計する : design a program
+プログラムをテストする : test a program
+コーディングする : write a program
+コーディング : coding
+テスト : test
+単体テスト : unit test
+結合テスト : integration test
+システムテスト : system test
+運用テスト : implementation test
+障害回復テスト : recovery test
+耐久テスト : duration test
+パフォーマンステスト : performance test
+C言語 : C programming language
+C++ : C plus plus
+変数 : variables
+定数 : constant
+オブジェクト : object
+オブジェクト指向 : object-oriented
+更新する : update
+検証する : verify
+コンパイルする : compile
+初期設定する : initialize、zero
+書式設定する : format
+実行する : run、submit
+修正する : fix、modify
+復元する : restore
+レビューする : review
+機能 : function、method
+起動 : start
+終了 : stop、kill
+シャットダウン : shut down
+再起動 : reboot
+文字化け : garbage characters
+文字化けする : garbled
+括弧 : parentheses
+(値を)渡す : pass
+(値を)戻す : return
+スタック : stack
+先入れ先出し : FIFO（First in, First out）
+動かす : move
+クリック : click
+ダブルクリック : double-click
+選択する : select
+キーを押す : hit a key
+最小化 : maximize
+最大化 : minimize
+閉じる : close
+フリーズする : freeze、hung up、hosed
+パッチ/span> : patch
+データベース : database
+管理データ : control data
+業務データ : application data
+管理者 : admin
+ハッキングする : hack
+共有する : share
+設定する : configure
+動的 : dynamic
+静的 : static
+つなげる : hook up
+pingを打つ : ping
+接続を切る : kill connection
+工数 : man-power
+工数管理 : man-power management
+進捗管理 : schedule management、progress management
+変更管理 : change management
+トラブル管理 : trouble management
+拡張性 : scalability
+可用性 : availability
+信頼性 : reliability
+保守性 : serviceability
+使いやすさ : usability
+管理容易性 : manageability
+独自仕様 : proprietary
+進捗状況 : current progress
+デグレート : degrade
+ロールバック : rollback
+エラー : error
+機能 : feature
+要望 : request
+売り手、販売業者、ベンダー : vendor
